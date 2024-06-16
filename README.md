@@ -1,0 +1,1 @@
+Checkout `https://github.com/JuinSoft/blockbloom` first. This is the react frontend app to interact with the blockbloom linera AI nft generator app.
